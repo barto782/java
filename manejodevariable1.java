@@ -1,4 +1,4 @@
-public class manejodevariable {
+public class manejodevariable1 {
     public static void main(String[] args) {
         String palabra ="Cerveza";
         String frase = "¿dónde esta mi cerveza?";
